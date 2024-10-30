@@ -1,0 +1,1 @@
+The Hugging Face Inference API lets you call most models from Hugging Face’s open source models list for free using the endpoint https://api-inference.huggingface.co/models/<MODEL NAME>. As mentioned above, we are going to use Facebook’s “bart-large-cnn” model (model name: facebook/bart-large-cnn) to summarize text.
